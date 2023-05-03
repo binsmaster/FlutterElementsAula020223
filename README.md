@@ -1,7 +1,16 @@
-# FlutterElementsAula020223
-Aula de Programaçao Mobile 01 02-05-2023
-1 Video_player, 
-2 Photo_view, 
-3 animed_text_kit, 
-4 flutter_easyloadin, 
-5 email_validator
+# elementos02_05_23
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
