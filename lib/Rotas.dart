@@ -13,7 +13,7 @@ class Rotas {
       case '/':
         return MaterialPageRoute(builder: (_) => HomeScreen());
       case 'Video Player':
-        return MaterialPageRoute(builder: (_) => VideoPlayer());
+        return MaterialPageRoute(builder: (_) => VideoApp());
       case 'Photo View':
         return MaterialPageRoute(builder: (_) => PhotoViewCustom());
       case 'Animated Text Kit':
